@@ -1,7 +1,7 @@
 # 🟣 PurpleQuizz 🟣
 <p>
   O PurpleQuizz é um aplicativo de quiz simples e divertido que apresenta perguntas aleatórias sobre curiosidades. 
-  A cada novo jogo, o usuário responde a uma série de perguntas e, ao final, pode visualizar na tela a quantidade de acertos obtidos.
+  Uma pergunta é apresentada na tela, o usuário responde a pergunta e, ao final, pode visualizar na tela se errou ou não, podendo reiniciar e tentar uma nova pergunta.
 </p>
 <p>
   O objetivo principal do aplicativo é proporcionar uma forma rápida e interativa de aprender curiosidades enquanto se diverte. A predominante cor roxa, que intitula o aplicativo "PurpleQuizz" tem como objetivo associar ao mistério e a criatividade, características importantes que compõem o funcionamento da aplicação. 
@@ -9,7 +9,7 @@
  🚀 Funcionalidades
 
 - Apresenta perguntas aleatórias sobre curiosidades gerais.
-- Mostra o resultado (quantidade de acertos) ao final de cada quiz.
+- Mostra o resultado ao final de cada pergunta.
 - Interface simples e intuitiva.
 - Reinício fácil para jogar novamente.
 
