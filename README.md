@@ -17,10 +17,10 @@
 
 ## 📲 Telas do Aplicativo
 
-### 🖼️ Tela 1 – [Nome da tela]
-_Aqui você pode escrever uma breve descrição da primeira tela._
+### 🖼️ Tela 1 – Splash Screen
+Aqui temos nossa Splash Screen contendo a logo da aplicação, tela de curta duração que direciona para o cadastro e login
 
-![Tela 1](./screenshots/tela1.png)
+![Tela 1](https://github.com/kakaufoc/PurpleQuizz/issues/1#issue-3207161694)
 
 ---
 
