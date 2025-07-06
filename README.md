@@ -20,7 +20,7 @@
 ### 🖼️ Tela 1 – Splash Screen
 Aqui temos nossa Splash Screen contendo a logo da aplicação, tela de curta duração que direciona para o cadastro e login
 
-![Tela 1](assets/tela1.png)
+![Tela 1](PurpleQuizz/tela1.png)
 
 ---
 
