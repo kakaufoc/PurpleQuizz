@@ -18,30 +18,30 @@
 ## 📲 Telas do Aplicativo
 
 ### 🖼️ Tela 1 – Splash Screen
-Aqui temos nossa Splash Screen contendo a logo da aplicação, tela de curta duração que direciona para o cadastro e login
+Aqui temos nossa Splash Screen contendo a logo da aplicação, tela de curta duração que direciona para o cadastro e login.
 
 ![Tela 1](tela1.png)
 
 ---
 
-### 🖼️ Tela 2 – [Nome da tela]
-_Descrição da segunda tela._
+### 🖼️ Tela 2 – Cadastro
+Aqui o usuário fará seu cadastro incluindo os dados solicitados, a aplicação enviará os dados para o firebase.
 
-![Tela 2](./screenshots/tela2.png)
-
----
-
-### 🖼️ Tela 3 – [Nome da tela]
-_Descrição da terceira tela._
-
-![Tela 3](./screenshots/tela3.png)
+![Tela 2](tela2.png)
 
 ---
 
-### 🖼️ Tela 4 – [Nome da tela]
-_Descrição da quarta tela._
+### 🖼️ Tela 3 – Login
+Após a autenticação dos dados no banco, o usuário pode efetuar seu login, que o direcionará para a tela inicial da aplicação.
 
-![Tela 4](./screenshots/tela4.png)
+![Tela 3](tela3.png)
+
+---
+
+### 🖼️ Tela 4 – Tela Principal (Perguntas)
+Nesta tela temos a exibição das perguntas que devem ser respondidas pelo usuário, após a resposta é apresentada uma mensagem de acerto ou erro!
+
+![Tela 4](tela4.png)
 
 ---
 
@@ -49,16 +49,11 @@ _Descrição da quarta tela._
 
 Siga os passos abaixo para instalar e executar o PurpleQuizz no seu ambiente local:
 
-### ✅ Pré-requisitos
-
-- [Node.js](https://nodejs.org/) (versão recomendada: LTS)
-- Gerenciador de pacotes como `npm` ou `yarn`
-
 ### 💻 Passos
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/purplequizz.git
+# Clone o código do repositório
+git clone https://github.com/kakaufoc/purplequizz.git
 
 # Acesse o diretório do projeto
 cd purplequizz
